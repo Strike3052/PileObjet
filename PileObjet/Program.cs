@@ -1,8 +1,7 @@
-﻿using PileObjet.Tests;
+using PileObjet.Tests;
 using System;
 using PileObjet.Utilitaires;
 using Utilitaires;
-//Salut Test
 
 namespace MesOutils
 {
