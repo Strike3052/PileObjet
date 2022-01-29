@@ -1,0 +1,7 @@
+D:\Documents\GitHub\PileObjet\PileObjet\bin\Debug\PileObjet.exe.config
+D:\Documents\GitHub\PileObjet\PileObjet\bin\Debug\PileObjet.exe
+D:\Documents\GitHub\PileObjet\PileObjet\bin\Debug\PileObjet.pdb
+D:\Documents\GitHub\PileObjet\PileObjet\obj\Debug\PileObjet.csproj.AssemblyReference.cache
+D:\Documents\GitHub\PileObjet\PileObjet\obj\Debug\PileObjet.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\PileObjet\PileObjet\obj\Debug\PileObjet.exe
+D:\Documents\GitHub\PileObjet\PileObjet\obj\Debug\PileObjet.pdb
